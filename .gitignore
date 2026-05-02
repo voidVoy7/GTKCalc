@@ -1,5 +1,6 @@
 gtkcalc
 *.tar.gz
+*.pkg.tar.zst
 /pkg
 /src
 PKGBUILD

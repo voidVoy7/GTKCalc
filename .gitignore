@@ -2,3 +2,4 @@ gtkcalc
 *.tar.gz
 /pkg
 /src
+PKGBUILD
